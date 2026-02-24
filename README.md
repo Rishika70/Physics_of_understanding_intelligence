@@ -170,11 +170,6 @@ The formal paper develops:
 - Local/global coherence functions  
 - Asymmetry generators  
 - Cyclic stabilization dynamics  
-
-See:
-
-/paper/main.tex
-
 ---
 
 ## What This Project Is Not
